@@ -18,4 +18,4 @@ As a first step, we will create the structure of the platform and the proof of c
 For the purposes of this project, we will use the create-react-app command to create a new React app. As components, we will use Material UI components and for style, we will use either styled-components or simple CSS files. For the three scene, we will use threejs.
 
 Model File
-![car](https://kissmybutton.github.io/react-three/car.glb "Car Model")
+https://kissmybutton.github.io/react-three/car.glb
