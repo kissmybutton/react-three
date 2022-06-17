@@ -6,11 +6,11 @@ As a first step, we will create the structure of the platform and the proof of c
 ![designs](https://kissmybutton.github.io/react-three/designs.png "Designs")
 
 # Styles
-Panel Color: #5B6057
-Scene Color: #78C091
-Boxes Color:#81F0E5
-Buttons Color:#81F0E5
-Text Color: #ffffff
+- Panel Color: #5B6057
+- Scene Color: #78C091
+- Boxes Color:#81F0E5
+- Buttons Color:#81F0E5
+- Text Color: #ffffff
 
 # Technical Description
 For the purposes of this project, we will use the create-react-app command to create a new React app. As components, we will use Material UI components and for style, we will use either styled-components or simple CSS files. For the three scene, we will use threejs.
