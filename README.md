@@ -11,6 +11,8 @@ As a first step, we will create the structure of the platform and the proof of c
 - Boxes Color:#81F0E5
 - Buttons Color:#81F0E5
 - Text Color: #ffffff
+- Panel Paddings: 24px
+- Box Paddings: 12px
 
 # Technical Description
 For the purposes of this project, we will use the create-react-app command to create a new React app. As components, we will use Material UI components and for style, we will use either styled-components or simple CSS files. For the three scene, we will use threejs.
